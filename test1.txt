@@ -1,2 +1,1 @@
-first test
-second test
+실습 점검 테스트
